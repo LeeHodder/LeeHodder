@@ -10,7 +10,7 @@
 
 <h2 align="left">About me</h2>
 <p>
-  I am an IT Systems Engineer with a drive to upskill with coding
+  I am an IT Systems Engineer with a drive to learn coding.
 </p>
 
 ###
