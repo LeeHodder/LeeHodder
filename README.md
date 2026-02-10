@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  My name is Lee Hodder and I'm currently learning to code with freecodecamp.org, I currently live in Malta
+  My name is Lee Hodder and I'm currently learning to code with freecodecamp.org. I currently live in Malta
 </p>
 
 ###
