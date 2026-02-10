@@ -24,23 +24,32 @@
 ###
 
 <h2 align="left">Currently learning</h2>
+<p>HTML, CSS and JavaScript</p>
 
 <div align="left">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRjZ3Z3dDZkZzE5b2M5bG1oM2F5c2R5cXJrY2R6cGZ4dW1nZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iqMHmcPIsNm4U/giphy.gif"
+    src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
     height="80"
-    alt="HTML animation"
+    alt="HTML logo"
   />
   <img width="20" />
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRpNnU0YWZqZDJkN25mOW5tdXBzMWM2dGZyY2g4eGx4NGFvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fsEaZldNC8A1PJ3mwp/giphy.gif"
+    src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
     height="80"
-    alt="CSS animation"
+    alt="CSS logo"
+  />
+  <img width="20" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="64"
+    alt="JavaScript logo"
   />
 </div>
 
-###
 
+
+###
+<!--
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -50,4 +59,5 @@
     alt="javascript logo"
   />
 </div>
+-->
 
